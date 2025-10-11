@@ -11,7 +11,7 @@
     "type": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "@vue/repl": "^4.4.2",
+    "@vue/repl": "^4.7.0",
     "@vue/theme": "^2.3.0",
     "dynamics.js": "^1.1.5",
     "gsap": "^3.12.5",
